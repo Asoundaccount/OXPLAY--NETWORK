@@ -1,15 +1,11 @@
 {
-  "Radicals": [
+  "posts": [
     {
-   "id":1,
-  "SDK":1,
-  "VER":"V 0.8",
-  "info":"개발중",
-  "select":false,
-  "release":null
+      "id": 1,
+      "title": "hello"
     }
   ],
-"profile": {
+  "profile": {
     "name": "typicode"
   }
 }
